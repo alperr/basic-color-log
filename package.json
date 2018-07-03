@@ -1,0 +1,9 @@
+{
+  "name": "basic-color-log",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "./basic-color-log.js",
+  "scripts": {
+    "pub": "git add -A && git commit -m 'npm release' && git push && npm publish"
+  }
+}
